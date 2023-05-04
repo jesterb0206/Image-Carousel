@@ -15,11 +15,11 @@
 
 <br>
 
-![Image Carousel]()
+![Image Carousel](images/image-carousel.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Image-Carousel/)
 
 <br>
 
