@@ -5,25 +5,25 @@
 }
 
 body {
-  align-items: center;
-  display: flex;
   font-family: 'Roboto', sans-serif;
-  height: 100vh;
+  display: flex;
+  align-items: center;
   justify-content: center;
+  height: 100vh;
   margin: 0;
 }
 
 img {
+  width: 500px;
   height: 500px;
   object-fit: cover;
-  width: 500px;
 }
 
 .carousel {
   box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
   height: 530px;
-  overflow: hidden;
   width: 500px;
+  overflow: hidden;
 }
 
 .image-container {
@@ -39,10 +39,10 @@ img {
 
 .btn {
   background-color: rebeccapurple;
-  border: none;
   color: #fff;
-  cursor: pointer;
+  border: none;
   padding: 0.5rem;
+  cursor: pointer;
   width: 49.5%;
 }
 
